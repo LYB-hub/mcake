@@ -1,0 +1,1 @@
+<view><view class="flex justify-between padding"><view data-event-opts="{{[['tap',[['handleSend',['$event']]]]]}}" bindtap="__e">草莓蛋糕</view><view>{{'购物车按钮'+num+''}}</view></view><test-my-comp vue-id="cea69964-1" name="张三丰" data-event-opts="{{[['^onNum',[['handleNum']]]]}}" bind:onNum="__e" bind:__l="__l"></test-my-comp></view>

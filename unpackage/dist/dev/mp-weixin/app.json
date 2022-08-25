@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/user/login",
+    "pages/user/registration",
+    "pages/cake/cake",
+    "pages/bread/bread",
+    "pages/food/food",
+    "pages/my/my",
+    "pages/detail/detail",
+    "pages/home/home",
+    "pages/home/banner-ad",
+    "pages/collect-data/collect-data",
+    "pages/cart/cart",
+    "pages/order/order",
+    "pages/address/address",
+    "pages/address/address-detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "mcake",
+    "navigationBarBackgroundColor": "#f1f1f1",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "test-my-comp": "/components/test-my-comp",
+    "nav-custom": "/components/nav-custom",
+    "home-title": "/components/home-title",
+    "good-item": "/components/good-item",
+    "tab-custom": "/components/tab-custom"
+  }
+}

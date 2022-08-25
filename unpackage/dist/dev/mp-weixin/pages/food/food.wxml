@@ -1,0 +1,1 @@
+<view>小食<u-tag vue-id="13f71a00-1" text="标签" plain="{{true}}" size="mini" type="warning" bind:__l="__l"></u-tag><u-rate vue-id="13f71a00-2" count="5" bind:__l="__l"></u-rate><test-my-comp vue-id="13f71a00-3" name="无忌" bind:__l="__l"></test-my-comp></view>
